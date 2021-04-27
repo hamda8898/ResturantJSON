@@ -1,0 +1,40 @@
+{
+  "Breakfast": [
+    {
+      "id": "BF 1",
+      "Name": "Pasta Frittata",
+      "Description": " This well-seasoned frittata, starring ham, eggs, cheese and pasta, is always popular on a buffet. It bakes up a lovely golden brown and slices like a dream. ",
+      "Price": "40 AED"
+    },
+    {
+      "id": "BF 2",
+      "Name": "Scrambled Egg Pocket",
+      "Description": " We used a simple homemade pizza dough to make these protein- and fiber-packed egg pockets, but a store-bought dough works, too. ",
+      "Price": "45 AED"
+    },
+    {
+      "id": "BF 3",
+      "Name": "Scrambled Egg Pocket",
+      "Description": " We used a simple homemade pizza dough to make these protein- and fiber-packed egg pockets, but a store-bought dough works, too. ",
+      "Price": "39 AED"
+    },
+    {
+      "id": "BF 4",
+      "Name": "Italian Brunch Bake",
+      "Description": "We created This innovative dish with love, Purchase it and enjoy the tasty mixture and juicy flavors!",
+      "Price": "49 AED"
+    },
+    {
+      "id": "BF 5",
+      "Name": "Italian Brunch Torte",
+      "Description": "We always serve this impressive layered breakfast bake with a salad of mixed greens and tomato wedges. It is one of our most requested dishes and can be served warm or cold. ",
+      "Price": "29 AED"
+    },
+    {
+      "id": "BF 6",
+      "Name": "Mini Frittatas",
+      "Description": "We always serve this impressive layered breakfast bake with a salad of mixed greens and tomato wedges. It is one of our most requested dishes and can be served warm or cold.",
+      "Price": "37 AED"
+    }
+  ]
+}
